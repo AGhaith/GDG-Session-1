@@ -3,8 +3,8 @@
 <table>
     <thead>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/AGhaith/Task1/blob/master/README.md">         Task1    </a></td>
-<td align="center" width="25%"><a href="https://github.com/AGhaith/Task2/blob/master/README.md">         Task2    </a></td>
+<td align="center" width="25%"><a href="https://github.com/AGhaith/Task1/blob/master/README.md">         OOPTask    </a></td>
+<td align="center" width="25%"><a href="https://github.com/AGhaith/Task2/blob/master/README.md">         SQLTask    </a></td>
         </tr>
     </thead>
     <tbody>
